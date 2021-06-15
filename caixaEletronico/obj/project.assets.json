@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinny\\source\\repos\\CSharpersCaixa-Troco\\caixa-troco\\caixa-troco.csproj",
-      "projectName": "caixa-troco",
-      "projectPath": "C:\\Users\\Vinny\\source\\repos\\CSharpersCaixa-Troco\\caixa-troco\\caixa-troco.csproj",
+      "projectUniqueName": "C:\\Users\\Vinny\\source\\repos\\CSharpersCaixa-Troco\\caixaEletronico\\caixaEletronico.csproj",
+      "projectName": "caixaEletronico",
+      "projectPath": "C:\\Users\\Vinny\\source\\repos\\CSharpersCaixa-Troco\\caixaEletronico\\caixaEletronico.csproj",
       "packagesPath": "C:\\Users\\Vinny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinny\\source\\repos\\CSharpersCaixa-Troco\\caixa-troco\\obj\\",
+      "outputPath": "C:\\Users\\Vinny\\source\\repos\\CSharpersCaixa-Troco\\caixaEletronico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
